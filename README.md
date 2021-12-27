@@ -14,6 +14,6 @@ api used are :
   - HistoricalChart api for the graphical chart
   - TrendingCoins api for the carousel
 
-## Made with ♥ By [Saif eddine yahyaoui / mdw3.1]
+## Made with ♥ By [Saif Eddine Yahyaoui & Aymen Mosrati / mdw3.1]
 
 
