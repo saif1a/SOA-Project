@@ -52,7 +52,8 @@ function Banner() {
             }}
           >
             saif eddine yahyaoui &
-            mosrati aymen
+            mosrati aymen &
+            Sghaier Adem
           </Typography>
         </div>
         <Carousel />
